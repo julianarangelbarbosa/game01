@@ -1,3 +1,3 @@
-# game01
+# Game01
 
-Desenvolvimento de um jogo de ping pong
+Ping Pong Code
