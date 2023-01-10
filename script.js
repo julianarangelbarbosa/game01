@@ -20,8 +20,9 @@ function Move_Ball() {
   }
 }
 
-
-document.addEventListener("Keydown", function () {jogador1.py += 8});
+document.addEventListener("Keydown", function () {
+  jogador1.py += 8;
+});
 
 function Draw() {
   container.fillRect(jogador1.px, jogador1.py, jogador1.tx, jogador1.ty);
